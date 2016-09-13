@@ -9,4 +9,4 @@ share: true
 modified: 2016-09-14T14:18:57-04:00
 ---
 
-Download the slides [here](https://github.com/R-und-DS-Meetup-Osnabrueck/R-und-DS-Meetup-Osnabrueck.github.io/downloads/blob/master/HEC_2016_OOS_Thiele.pdf).
+Download the slides [here](https://github.com/R-und-DS-Meetup-Osnabrueck/R-und-DS-Meetup-Osnabrueck.github.io/blob/master/downloads/HEC_2016_OOS_Thiele.pdf).
