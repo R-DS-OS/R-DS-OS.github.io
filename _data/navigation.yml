@@ -1,16 +1,11 @@
 # Site navigation links
 
-- title: About
+- title: Über uns
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Folien
+  url: /folien/
 
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Search
-  url: /search/

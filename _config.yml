@@ -2,10 +2,12 @@
 
 title: R und Data Science Meetup Osnabrück
 locale: de_DE
-description: Das regelmäßige R und Data Science Meetup in Osnabrück
-logo: site-logo.png
+description: "DIESE SEITE IST EINE DEMO - DIESE SEITE IST EINE DEMO - DIESE SEITE IST EINE DEMO - 
+    Wir sind das Meetup für alle aus dem Osnabrücker Raum, die Interesse an R und Data Science haben. 
+    Anmeldung und weitere Infos auf www.meetup.com/de-DE/Osnabrueck-R-und-Data-Science"
+logo: site-logo_1zu1.png
 search: true
-url: R-und-DS-Meetup-Osnabrueck.github.io
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -36,7 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: R-DS-Meetup
+  name: R-DS-OS
   avatar: site-logo.png
   email: #you@email.com
   disqus-shortname:

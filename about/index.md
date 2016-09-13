@@ -1,26 +1,11 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: Über unser Meetup
+excerpt: "Ein paar Informationen über unser Data Science Meetup in Osnabrück"
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Wir möchten  Alle R-Nutzer und Datenanalysten in Osnabrück und Umgebung einladen sich auszutauschen, weiterzuhelfen und zu inspirieren. Jeder, der an R, angewandter Statistik oder Datenanalysen Interesse hat, egal ob Anfänger/in oder Profi, ist herzlich eingeladen!
 
-## So Simple Theme is all about:
+Sprecher aus Wissenschaft, Wirtschaft und Enthusiasten können Ihre aktuellen Projekte vorstellen. Wenn Du Interesse hast, oder nicht weißt, ob die Gruppe etwas für Dich ist, schreib' uns einfach. Die Präsentationen sind in Abhängigkeit von der/m Vortragenden auf Deutsch oder Englisch. 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+Aktuell haben wir vor, uns etwa alle zwei Monate zu treffen, um jeweils zwei kurze Impulsvorträge zu hören und andere Probleme zu diskutieren. Außerdem soll genügend Zeit reserviert werden, um sich informell auszutauschen und neue Kontakte zu knüpfen. Wenn Du Lust hast, etwas zu präsentieren oder uns dabei unterstützen möchtest, in Deiner Firma das nächste Meetup zu veranstalten, dann schreib' uns, am besten direkt auf [Meetup.com](http://www.meetup.com/de-DE/Osnabrueck-R-und-Data-Science/). 
