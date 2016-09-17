@@ -4,4 +4,4 @@ Das regelmäßige Meetup für alle aus dem Osnabrücker Raum - und gerne auch au
 
 Anmeldung und mehr Infos auf [Meetup](http://www.meetup.com/de-DE/Osnabrueck-R-und-Data-Science/).
 
-Der Blog unseres Meetups mit Materialien vergangener Treffen findet sich unter [R-und-DS-Meetup-Osnabrueck.github.io](https://R-und-DS-Meetup-Osnabrueck.github.io).
+Den Blog unseres Meetups mit Materialien vergangener Treffen gibt es unter [https://r-ds-os.github.io/](https://r-ds-os.github.io/).
