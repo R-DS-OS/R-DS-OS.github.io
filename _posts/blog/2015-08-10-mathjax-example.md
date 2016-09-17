@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_nologo
 title: "MathJax Example"
 modified:
 categories: blog

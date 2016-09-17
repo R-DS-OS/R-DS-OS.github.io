@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_nologo
 title: Folien der Präsentationen
 excerpt: "Folien der Präsentationen in chronologischer Reihenfolge."
 search_omit: true

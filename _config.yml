@@ -2,11 +2,11 @@
 
 title: R und Data Science Meetup Osnabrück
 locale: de_DE
-description: "Wir sind das Meetup für alle aus dem Osnabrücker Raum, die Interesse an R und Data Science haben. 
-    Anmeldung und weitere Infos auf www.meetup.com/de-DE/Osnabrueck-R-und-Data-Science"
+description: "Anmeldung und weitere Infos auf www.meetup.com/de-DE/Osnabrueck-R-und-Data-Science"
 logo: site-logo_1zu1.png
 search: true
 url: https://R-DS-OS.github.io/
+# url: http://localhost:4000/ # Zum lokalen Testen
 
 # Jekyll configuration
 

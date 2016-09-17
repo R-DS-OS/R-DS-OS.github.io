@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_nologo
 title: Über unser Meetup
 excerpt: "Ein paar Informationen über unser Data Science Meetup in Osnabrück"
 ---
